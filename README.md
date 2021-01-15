@@ -1,2 +1,2 @@
 # YOLO-tiny-Fruits
-Implementation of YOLOv4 tiny and tuning on custom dataset
+Implementation of YOLOv4 tiny tuned on a custom dataset
